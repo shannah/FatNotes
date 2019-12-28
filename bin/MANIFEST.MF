@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.1
+X-COMMENT: Main-Class will be added automatically by build
+Class-Path: lib/swingx-all-1.6.5.jar lib/commons-cli-1.1.jar lib/commo
+ ns-io-1.4.jar lib/jodconverter-core-3.0-beta-3_r220.jar lib/json-2009
+ 0211.jar lib/juh-3.2.1.jar lib/jurt-3.2.1.jar lib/ridl-3.2.1.jar lib/
+ unoil-3.2.1.jar lib/aperture-core-1.5.0.jar lib/log4j-1.2.13.jar lib/
+ rdf2go.api-4.6.2-for-aperture.jar lib/slf4j-api-1.3.0-for-aperture.ja
+ r lib/slf4j-jdk14-1.3.0-for-aperture.jar lib/slf4j-simple-1.3.0-for-a
+ perture.jar lib/commons-logging-1.1-for-pdfbox.jar lib/fontbox-1.6.0-
+ for-pdfbox.jar lib/pdfbox-1.6.0.jar lib/poi-3.8-20120326.jar lib/poi-
+ ooxml-3.8-20120326.jar lib/poi-ooxml-schemas-3.8-20120326.jar lib/poi
+ -scratchpad-3.8-20120326.jar lib/ScratchApplet.jar lib/ikonli-core-2.
+ 4.0.jar lib/ikonli-material-pack-2.4.0.jar lib/ikonli-swing-2.4.0.jar
+  lib/quaqua-filechooser-only.jar
+Created-By: 1.8.0_222-b10 (Azul Systems, Inc.)
+Main-Class: fatnotes.FatNotes
+

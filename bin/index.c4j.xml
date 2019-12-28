@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<app numScreenshots="0" title="Fat Notes" updates="Auto" url="https://github.com/shannah/FatNotes.git/raw/master/bin/FatNotes.jar" vendor="Web Lite Solutions Corp.">
+<app numScreenshots="0" title="Fat Notes" updates="Auto" url="https://github.com/shannah/FatNotes/raw/master/bin/FatNotes.jar" vendor="Web Lite Solutions Corp.">
   <description><![CDATA[A note-taking application with attachment support]]></description>
   <jre/>
   <permission name="java.security.AllPermission"/>

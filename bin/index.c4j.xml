@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<app numScreenshots="0" title="Fat Notes" updates="Auto" url="https://github.com/shannah/FatNotes/raw/master/bin/FatNotes.jar" vendor="Web Lite Solutions Corp.">
-  <description><![CDATA[A note-taking application with attachment support]]></description>
+<app codeSignSettings="1" numScreenshots="0" title="Fat Notes" updates="Auto" url="https://github.com/shannah/FatNotes/raw/master/bin/FatNotes.jar" vendor="Web Lite Solutions Corp." version="1.0.1">
+  <description>
+    <![CDATA[A note-taking application with attachment support]]>
+  </description>
+  <changes>
+    <![CDATA[Version 1.0.1:
+
+- Bumped version number to make sure it works.]]>
+  </changes>
   <jre/>
   <permission name="java.security.AllPermission"/>
 </app>
